@@ -1,0 +1,101 @@
+	<transformation_mx_c name="Immobile Elements Normalized to E-MORB" shortName="IEM">
+		<Comment>Series of immobile elements normalized to E-MORB for altered rocks characterization </Comment>
+		<Reference>Sun and McDonough (1989)</Reference>
+
+		<element name="Th"  unit="ppm">
+			<m>0.60</m>
+			<c>0</c>
+		</element>
+
+		<element name="Nb"  unit="ppm">
+			<m>8.30</m>
+			<c>0</c>
+		</element>
+
+		<element name="Ta"  unit="ppm">
+			<m>0.47</m>
+			<c>0</c>
+		</element>
+
+		<element name="La"  unit="ppm">
+			<m>6.30</m>
+			<c>0</c>
+		</element>
+
+		<element name="Ce"  unit="ppm">
+			<m>15.0</m>
+			<c>0</c>
+		</element>
+
+		<element name="Pr"  unit="ppm">
+			<m>2.05</m>
+			<c>0</c>
+		</element>
+
+		<element name="Nd"  unit="ppm">
+			<m>9.00</m>
+			<c>0</c>
+		</element>
+
+		<element name="Sm"  unit="ppm">
+			<m>2.60</m>
+			<c>0</c>
+		</element>
+
+		<element name="Zr"  unit="ppm">
+			<m>73</m>
+			<c>0</c>
+		</element>
+
+		<element name="Hf"  unit="ppm">
+			<m>2.03</m>
+			<c>0</c>
+		</element>
+
+		<element name="Eu"  unit="ppm">
+			<m>0.91</m>
+			<c>0</c>
+		</element>
+
+		<element name="Ti"  unit="ppm">
+			<m>6000</m>
+			<c>0</c>
+		</element>
+
+		<element name="Gd"  unit="ppm">
+			<m>2.970</m>
+			<c>0</c>
+		</element>
+
+		<element name="Tb"  unit="ppm">
+			<m>0.530</m>
+			<c>0</c>
+		</element>
+
+		<element name="Dy"  unit="ppm">
+			<m>3.550</m>
+			<c>0</c>
+		</element>
+
+		<element name="Y"  unit="ppm">
+			<m>22</m>
+			<c>0</c>
+		</element>
+
+		<element name="Er"  unit="ppm">
+			<m>2.31</m>
+			<c>0</c>
+		</element>
+
+		<element name="Yb"  unit="ppm">
+			<m>2.37</m>
+			<c>0</c>
+		</element>
+
+		<element name="Lu"  unit="ppm">
+			<m>0.354</m>
+			<c>0</c>
+		</element>
+
+
+	</transformation_mx_c>

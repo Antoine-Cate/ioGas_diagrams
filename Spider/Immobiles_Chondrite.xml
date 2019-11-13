@@ -1,0 +1,101 @@
+	<transformation_mx_c name="Immobile Elements Normalized to Primitive Mantle" shortName="IC">
+		<Comment>Series of immobile elements normalized to chondrite for altered rocks characterization </Comment>
+		<Reference>Sun and McDonough (1989)</Reference>
+
+		<element name="Th"  unit="ppm">
+			<m>0.029</m>
+			<c>0</c>
+		</element>
+
+		<element name="Nb"  unit="ppm">
+			<m>0.246</m>
+			<c>0</c>
+		</element>
+
+		<element name="Ta"  unit="ppm">
+			<m>0.014</m>
+			<c>0</c>
+		</element>
+
+		<element name="La"  unit="ppm">
+			<m>0.237</m>
+			<c>0</c>
+		</element>
+
+		<element name="Ce"  unit="ppm">
+			<m>0.612</m>
+			<c>0</c>
+		</element>
+
+		<element name="Pr"  unit="ppm">
+			<m>0.095</m>
+			<c>0</c>
+		</element>
+
+		<element name="Nd"  unit="ppm">
+			<m>0.467</m>
+			<c>0</c>
+		</element>
+
+		<element name="Sm"  unit="ppm">
+			<m>0.153</m>
+			<c>0</c>
+		</element>
+
+		<element name="Zr"  unit="ppm">
+			<m>3.87</m>
+			<c>0</c>
+		</element>
+
+		<element name="Hf"  unit="ppm">
+			<m>0.1066</m>
+			<c>0</c>
+		</element>
+
+		<element name="Eu"  unit="ppm">
+			<m>0.058</m>
+			<c>0</c>
+		</element>
+
+		<element name="Ti"  unit="ppm">
+			<m>445</m>
+			<c>0</c>
+		</element>
+
+		<element name="Gd"  unit="ppm">
+			<m>0.2055</m>
+			<c>0</c>
+		</element>
+
+		<element name="Tb"  unit="ppm">
+			<m>0.0374</m>
+			<c>0</c>
+		</element>
+
+		<element name="Dy"  unit="ppm">
+			<m>0.2540</m>
+			<c>0</c>
+		</element>
+
+		<element name="Y"  unit="ppm">
+			<m>1.57</m>
+			<c>0</c>
+		</element>
+
+		<element name="Er"  unit="ppm">
+			<m>0.1655</m>
+			<c>0</c>
+		</element>
+
+		<element name="Yb"  unit="ppm">
+			<m>0.170</m>
+			<c>0</c>
+		</element>
+
+		<element name="Lu"  unit="ppm">
+			<m>0.0254</m>
+			<c>0</c>
+		</element>
+
+
+	</transformation_mx_c>
