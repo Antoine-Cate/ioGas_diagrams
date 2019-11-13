@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<FreeFunctions name="Example">
+   <FreeVariable letter="A" columnName="SiO2_pct"/>
+   <Properties multivariate="true" makeIntermediates="false"/>
+   <FreeFunction name="Expression1" function="A + 1" comment=""/>
+</FreeFunctions>

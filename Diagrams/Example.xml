@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<GeochemXYDiagram name="Example">
+   <GeochemAxisX element="Zn" unit="ppm" log="false"/>
+   <GeochemAxisY element="Ni" unit="ppm" log="false"/>
+   <Polyline name="Polyline 1" visible="true" >
+      <Colour r="0" g="0" b="255"/>
+      <LabelAngle angle="0.0" />
+      <LabelPos x="185.83012" y="41.947796" />
+      <Point x="126.21963" y="31.595423" />
+      <Point x="245.44063" y="52.30017" />
+   </Polyline>
+</GeochemXYDiagram>
